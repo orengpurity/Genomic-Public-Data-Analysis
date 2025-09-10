@@ -1,0 +1,1 @@
+This script contains bioinformatics pipeline of the final steps, which includes alignment to a reference genome and variant calling using specified tools. 
